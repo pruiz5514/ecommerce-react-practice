@@ -1,7 +1,10 @@
 import React from 'react'
+import Layout from '../../Components/Layout/Layout'
 
 export default function SignIn() {
   return (
-    <div>SignIn</div>
+    <Layout>
+      Sign in
+    </Layout>
   )
 }
